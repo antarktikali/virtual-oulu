@@ -1,0 +1,3 @@
+[submodule "Assets/Editor/Export3JS"]
+	path = Assets/Editor/Export3JS
+	url = git@github.com:antarktikali/Export3JS.git
